@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">hw4DataBase</string>
+    <string name="hint_first_name">First name:</string>
+    <string name="hint_second_name">Second name:</string>
+    <string name="title_toolbar">Toolbar</string>
+    <string name="toolbar_menu_search_title">Search</string>
 </resources>
